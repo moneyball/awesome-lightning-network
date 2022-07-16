@@ -46,7 +46,7 @@ Implementations of the Lightning Network Protocol
 - [eclair](https://github.com/ACINQ/eclair) - A Scala implementation of the Lightning Network (Scala)
 - [lit](https://github.com/mit-dci/lit) - Lightning Network node software (Golang)
 - [c-lightning](https://github.com/ElementsProject/lightning) - A Lightning Network implementation in C
-- [rust-lightning](https://github.com/rust-bitcoin/rust-lightning) - A Lightning Network implementation in Rust [Incomplete]
+- [LDK](https://github.com/rust-bitcoin/rust-lightning) - A Lightning Network implementation in Rust
 - [lightning-onion](https://github.com/lightningnetwork/lightning-onion) - Onion Routed Micropayments for the Lightning Network (Golang)
 - [ptarmigan](https://github.com/nayutaco/ptarmigan) - C++ BOLT-Compliant Lightning Network Implementation
 
